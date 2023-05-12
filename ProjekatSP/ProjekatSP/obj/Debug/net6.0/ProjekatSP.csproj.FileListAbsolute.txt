@@ -1,0 +1,15 @@
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\bin\Debug\net6.0\ProjekatSP.exe
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\bin\Debug\net6.0\ProjekatSP.deps.json
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\bin\Debug\net6.0\ProjekatSP.runtimeconfig.json
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\bin\Debug\net6.0\ProjekatSP.dll
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\bin\Debug\net6.0\ref\ProjekatSP.dll
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\bin\Debug\net6.0\ProjekatSP.pdb
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\obj\Debug\net6.0\ProjekatSP.csproj.AssemblyReference.cache
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\obj\Debug\net6.0\ProjekatSP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\obj\Debug\net6.0\ProjekatSP.AssemblyInfoInputs.cache
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\obj\Debug\net6.0\ProjekatSP.AssemblyInfo.cs
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\obj\Debug\net6.0\ProjekatSP.csproj.CoreCompileInputs.cache
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\obj\Debug\net6.0\ProjekatSP.dll
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\obj\Debug\net6.0\ref\ProjekatSP.dll
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\obj\Debug\net6.0\ProjekatSP.pdb
+D:\Elektronski fakultet\III\Sistemsko programiranje\ProjekatSP\ProjekatSP\obj\Debug\net6.0\ProjekatSP.genruntimeconfig.cache
